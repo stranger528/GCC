@@ -1,0 +1,110 @@
+cluster comparision
+=======================================================
+
+Class1：----------------------
+covariance matrix：
+    0.007745     0.006459 
+    0.006459     0.205058 
+
+    0.007405     0.007366 
+    0.007366     0.211565 
+
+    0.008263     0.011114 
+    0.011114     0.234269 
+
+center points：
+   10.473193     7.430839 
+   10.485321     7.446638 
+   10.453758     7.420256 
+
+data amount of each clusters 
+   76374.2007
+   68076.3406
+   27406.2064
+
+path：
+C:\Users\stranger\Desktop\GCC\result\Ghent 结果\A01 T1.D13.3.B_FRESH_SG_20x-tercen_2.mat
+C:\Users\stranger\Desktop\GCC\result\Ghent 结果\A01 T1.D12.3.B_FRESH_SG_10x-tercen_2.mat
+C:\Users\stranger\Desktop\GCC\result\Ghent 结果\A04 T4.D10.3.B_FRESH_SG_20x-tercen_2.mat
+
+original weight：
+0.78077
+0.79536
+0.71966
+
+
+Class2：----------------------
+covariance matrix：
+    0.022636     0.023476 
+    0.023476     0.116623 
+
+    0.047335     0.016243 
+    0.016243     0.116736 
+
+center points：
+   10.188660     7.486801 
+   10.207541     7.467286 
+
+data amount of each clusters 
+   18550.5269
+   21444.7993
+
+path：
+C:\Users\stranger\Desktop\GCC\result\Ghent 结果\A05 T5.D13.3.B_FRESH_SG_20x-tercen_2.mat
+C:\Users\stranger\Desktop\GCC\result\Ghent 结果\A01 T1.D13.3.B_FRESH_SG_20x-tercen_2.mat
+
+original weight：
+0.42998
+0.21923
+
+
+Class3：----------------------
+covariance matrix：
+    0.001172    -0.000360 
+   -0.000360     0.018729 
+
+    0.002689    -0.001863 
+   -0.001863     0.050742 
+
+center points：
+   10.528788     7.940935 
+   10.525180     7.980118 
+
+data amount of each clusters 
+   988.616
+   4127.0391
+
+path：
+C:\Users\stranger\Desktop\GCC\result\Ghent 结果\A01 T1.D11.3.B_FRESH_SG_20x-tercen_3.mat
+C:\Users\stranger\Desktop\GCC\result\Ghent 结果\A01 T1.D10.3.B_FRESH_SG_20x (1)-tercen_2.mat
+
+original weight：
+0.33287
+0.37322
+
+
+Class4：----------------------
+covariance matrix：
+    0.004133    -0.005644 
+   -0.005644     0.070644 
+
+    0.005883    -0.004502 
+   -0.004502     0.066773 
+
+center points：
+   10.493456     7.814546 
+   10.501098     7.857647 
+
+data amount of each clusters 
+   7868.4371
+   10432.4006
+
+path：
+C:\Users\stranger\Desktop\GCC\result\Ghent 结果\A05 T5.D7.3.B_FRESH_SG_20x-tercen_6.mat
+C:\Users\stranger\Desktop\GCC\result\Ghent 结果\A04 T4.D7.3.B_FRESH_SG_20x-tercen_5.mat
+
+original weight：
+0.21012
+0.24438
+
+
